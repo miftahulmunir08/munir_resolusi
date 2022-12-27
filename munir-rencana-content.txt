@@ -5,8 +5,9 @@ Rencana Konten Munir
  ~ laravel
  ~ cake
 - video html css
+- video html css
 - video css
- ~ tailwind
  ~ boostrap
+ ~ tailwind
 - speed code
 - wedding web
