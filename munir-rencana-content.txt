@@ -1,7 +1,12 @@
 Rencana Konten Munir
 
 - video PHP
+ ~ codeigniter
+ ~ laravel
+ ~ cake
 - video html css
 - video css
+ ~ tailwind
+ ~ boostrap
 - speed code
 - wedding web
